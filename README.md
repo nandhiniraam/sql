@@ -1,2 +1,2 @@
 # sql
-SQL reference
+SQL quick reference
